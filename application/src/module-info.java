@@ -4,4 +4,5 @@
  */
 module hellomodule {
     requires java.logging;
+    requires domain;
 }
